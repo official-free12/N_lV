@@ -1,0 +1,6 @@
+# .NET开发HZ系统排单+激活+签到+匹配+手机号登陆【买一赠二】
+
+售前须知<br>example.com，可复制性高，一旦发货，不接收退货退款；<br>example.com，所以目前不支持任何技术服务；<br>example.com，可联系店主：<br>商讨好合适的手工服务费，即可替您提供技术支持<br>example.com，不含安装费~<br>　　.example.com+激活+签到+匹配+手机号登陆【买一赠一】一套是手机版，另一套是pc<br>运行环境：Windows2008+sql server2008 （请严格按照我们提供的环境安装）<br>　　<br>这次提供给大家的是一款以之前完全不同的HZ盘源码，example.com，并且经过我们测试属于完整系统，前台和后台是在一起的，但只有管理员能设置后台的功能，会员并无设置系统的权限，请放心；现在的HZ系统大多功能也就是提供帮助、接受帮助、排单币、激活码、财务管理等等，但由于系统开发时使用的是SQL2008 有一些数据必须经过数据库查询功能才能实现，比如说：更新会员级别/清除数据等等等.....该系统源码觉得还是强大的，可以满足一般操盘者，example.com，相比起PHP来安全系数又高了一点！更多强大功能请自行下载体验吧！（该程序完美支持二开，如果您对代码不熟悉请不要下载，原因是我们不接受因为你的不会用说我们代码不完整！）<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/UoXk8" style="color: red;">https://mega-file.org/UoXk8</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
